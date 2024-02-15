@@ -1,0 +1,6 @@
+spring:
+  rabbitmq:
+    username: gcwatgsq
+    password: JgJFuGCZRQERwLDhBlgSUAuyobWOiaJR
+    host: dingo-01.rmq.cloudamqp.com
+    virtual-host: gcwatgsq
